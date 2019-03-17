@@ -1,0 +1,15 @@
+{
+  "name": "damiana-bot",
+  "version": "1.0.0",
+  "main": "serve.js",
+  "author": "@ahsouza <annibalhsouza@gmail.com>",
+  "scripts": {
+    "start": "node serve.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
